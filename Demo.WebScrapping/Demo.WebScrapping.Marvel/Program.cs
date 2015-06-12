@@ -125,6 +125,7 @@ namespace Demo.WebScrapping.Marvel
                     //manipular
                     divBase = html.DocumentNode
                         .SelectSingleNode("//*[@id='comics-issuedetail']/section[1]/section/section/dl/dd[2]/div/div/div[1]/div/div[1]");
+                   
                     //COMO VIMOS em algumas PAGINAS, Nem sempre a estrutura é a mesma, então FIZEMOS isto
                     //para passar novamente um XPATH correto.
                     if (divBase == null)
