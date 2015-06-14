@@ -50,7 +50,7 @@ namespace Minicurso.Webscraping.Project
                 foreach (var div in divs)
                 {
                     //pegamos a url do item
-                    //fomos no tag <a> 
+                    //fomos no tag <a>  
                     //em atributes, pegamos o valor do HRF
                     //E LIMPAMOS os espaços em branoc com TRIM
                     var url = div.SelectSingleNode("div[2]/h5/a")
