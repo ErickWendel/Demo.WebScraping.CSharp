@@ -6,7 +6,7 @@
 
 <h2><a id="user-content-apresentações" class="anchor" href="#apresentações" aria-hidden="true">
 <span class="octicon octicon-link"></span></a>Sobre</h2>
-<p>Demo da Apresentação realizada em 13/06/2015 no CT da <a href="https://www.facebook.com/ctnovatec">Editora Novatec</a>, pela  <a href="https://www.facebook.com/DotNetCoders">Comunidade .NET Coders.</a></p>
+<p>Demo da <a href="http://pt.slideshare.net/EriickWendell/mini-curso-webscraping"> Apresentação</a> realizada em 13/06/2015 no CT da <a href="https://www.facebook.com/ctnovatec">Editora Novatec</a>, pela  <a href="https://www.facebook.com/DotNetCoders">Comunidade .NET Coders.</a></p>
 
 <h2><a id="user-content-apresentações" class="anchor" href="#apresentações" aria-hidden="true">
 <span class="octicon octicon-link"></span></a>Executando</h2>
